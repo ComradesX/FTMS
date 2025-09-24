@@ -1,0 +1,23 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "搜索页"
+      }
+    },
+    {
+      "path": "pages/device/ftms",
+      "style": {
+        "navigationBarTitleText": "设备详情"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "FTMS",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "uniIdRouter": {}
+}

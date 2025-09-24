@@ -1,0 +1,9 @@
+
+/node_modules
+.idea
+unpackage
+package-lock.json
+/trade
+/.hbuilderx
+manifest.json
+/temp
